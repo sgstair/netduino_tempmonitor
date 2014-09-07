@@ -37,3 +37,6 @@ Icon
 
 Netduino_app/Netduino_app/bin/*
 Netduino_app/Netduino_app/obj/*
+DataReceiverService/DataReceiverService/bin/*
+*.suo
+DataReceiverService/DataReceiverService/obj/*
