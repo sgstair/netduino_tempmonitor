@@ -10,4 +10,4 @@ Overview and caveats:
 * Webservice inserts data into a local SQL database
 * Designed to operate on a trusted network (for now), there's no message security, encryption, authentication currently.
 * Netduino plus 2 firmware (ver 4.3.1) has a bug where trying to connect to a host that isn't responding freezes up the device (never times out). Working on isolating this seperately.
-** This means a powercycle is necessary if the service goes down for any length of time.
+* This means a powercycle is necessary if the service goes down for any length of time.
